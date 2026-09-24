@@ -20,8 +20,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`[O impacto das redes sociais na comunicação entre as pessoas. Como a tecnologia facilitou a comunicação, mas também trouxe mudanças na forma como as pessoas se relacionam.
-]`
+`[O impacto das redes sociais na comunicação entre as pessoas. Como a tecnologia facilitou a comunicação, mas também trouxe mudanças na forma como as pessoas se relacionam.]`
 
 ### Do tema amplo ao específico
 
